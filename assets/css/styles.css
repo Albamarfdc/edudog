@@ -1,0 +1,24 @@
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: #212529;
+  color: white;
+}
+
+.form-text {
+  background-color: #e20816;
+}
+
+.btn {
+  background-color: #e20816;
+  color: white;
+}
+
+.btn:hover {
+  background-color: #ff3543;
+  color: white;
+}
+
+.card-img-top {
+  height: 250px;
+  width: 100%;
+}
